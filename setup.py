@@ -1,5 +1,5 @@
 import pygame as pg
-import numpy as np
+import numpy as np  # noqa: F401
 import LVl
 import draw
 import player
